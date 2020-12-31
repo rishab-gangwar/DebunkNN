@@ -6,7 +6,7 @@
 >>   2. However,the `NN with BatchNorm` conversely,stabilizes the distribution just after 1st epoch<br>
 >>* The NN without BN is unable to train itself and the loss curve seems to get flattened but other NN continues to train even after 20th epoch.<br>
 
-|**`N0BatchNormNN`**|**`BatchNormNN`**|
+|**`NN without BN`**|**`NN with BatchNorm`**|
 |:------:|:------------------:|
 |![GitHub Logo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNorm/Mynet.png)|![oo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNorm/My.png)|
 |  Input Data distribution  |![GitHub Logo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNorm/initDist.png) |
