@@ -11,5 +11,5 @@
 |data distribution after 10th epoch |![oo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNormCNN/DistAfter10.png)|
 |Loss plot after 24 epoch |![oo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNormCNN/loss24.png)|
 |Loss plot after 40 epoch  |![oo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNormCNN/loss40.png)|
-|data distribution after 10th epoch |![oo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNormCNN/distAfter10.png)|
+|data distribution after 10th epoch |![oo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNormCNN/DistAfter10.png)|
 |output distribution  |![oo](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/BatchNormCNN/outputdist.png)|
