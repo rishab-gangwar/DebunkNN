@@ -1,4 +1,4 @@
-
+# Advantage of Having Batch Normalization Layer
 >This part of repo explores the effect of batch normalization on training Neural Nets.
 >>* We have taken two different NN with only diiference in the presence of Batch Normalization in one.<br>
 >>* We have also plotted the change in distribution of data.<br>
