@@ -1,5 +1,4 @@
-### Neural network from scratch
-This is 2 layered neural network trained/tested on dataset of points on catesian coordinates.
+### Neural network
 ![nn](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/fig1.png)
 ![nn](https://github.com/rishab-gangwar/nn_from_scratch/blob/master/fig2.png)
 |number|task|
