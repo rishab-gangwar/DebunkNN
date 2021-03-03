@@ -1,7 +1,6 @@
 # Advantage of Having Batch Normalization Layer in CNN
->This part of repo explores the effect of batch normalization Layer on training Conv. Neural Nets.
->>* We have taken two different cNN architectures ,only difference is that only one has Batch Normalization layer.<br>
->>* * Here the difference is not as significant as it was in the case of MLP.
+>This part explores the effect of bn Layer on training CNN.
+>>* We have taken two different cnn architectures ,with difference of bn layer.<br>
 
 |**`CNN without BatchNorm`**|**`CNN with BatchNorm`**|
 |:---------------------------:|:------------------:|
